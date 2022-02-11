@@ -89,3 +89,6 @@ Follow Channel [@Lunatic0de](https://t.me/Lunatic0de) untuk info Update bot dan 
 
 ## License
 Licensed under [Raphielscape Public License](https://github.com/mrismanaziz/Man-Userbot/blob/Man-Userbot/LICENSE) - Version 1.d, February 2020
+
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MatrixBotz/Zeploy)</br>
